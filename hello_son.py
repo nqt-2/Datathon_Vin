@@ -1,0 +1,1 @@
+print("Quá đẳng cấp")
